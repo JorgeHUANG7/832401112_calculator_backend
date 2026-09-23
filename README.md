@@ -7,7 +7,7 @@ and evaluates the arithmetic expressions, stores every successful
 calculation into the database, and serves the calculation history.
 
 > The front end lives in a **separate repository**:
-> `StudentID_calculator_frontend` (see the blog for the link).
+> https://github.com/JorgeHUANG7/832401112_calculator_frontend
 
 ## Project Introduction
 
