@@ -8,6 +8,9 @@ calculation into the database, and serves the calculation history.
 
 > The front end lives in a **separate repository**:
 > https://github.com/JorgeHUANG7/832401112_calculator_frontend
+>
+> Deployed API (Render): https://calculator-backend-oaoe.onrender.com
+> — health check at `/api/health`, interactive docs at `/docs`.
 
 ## Project Introduction
 
