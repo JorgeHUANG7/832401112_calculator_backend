@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# SQLite database (created at runtime, must not be committed)
+calculator.db
+*.db
+*.sqlite3
+data/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
